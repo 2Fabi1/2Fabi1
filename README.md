@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2Fabi1
 - 👀 I’m interested in chess, mathematics and programming!
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning JS.
 - 💞️ I’m looking to collaborate on some discord bots :D
 - 📫 How to reach me: @fabudhabi on discord.
 - 😄 Pronouns: he/him
